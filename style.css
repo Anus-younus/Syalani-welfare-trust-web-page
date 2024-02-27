@@ -130,3 +130,24 @@
     flex-direction: column;
 }
 /* hero ended  */
+
+/* About section started */
+.about{
+    border: 1px solid blue;
+    height: 30rem;
+}
+.about-child{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.about-child-part{
+    padding: 100px;
+    border: 1px solid blue;
+    transition: .5s ease;
+    cursor: pointer;
+}
+.about-child-part:hover{
+    transform: scale(1.1);
+}
+/* About section ended */
