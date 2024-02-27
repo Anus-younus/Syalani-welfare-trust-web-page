@@ -197,14 +197,3 @@ p.text{
 
 }
 /* About section ended */
-
-
-/* footer started */
-.footer{
-    background-image: url(./Images/footer.png);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-color: gray;
-}
-/* footer ended */
